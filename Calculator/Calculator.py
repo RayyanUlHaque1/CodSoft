@@ -23,7 +23,7 @@ def Calculator_code():
 
 #Adding Option to Choose :
   while True:
-    print("\neSelect Operation:")
+    print("\nSelect Operation:")
     print("Press 1.+")
     print("Press 2.-")
     print("Press 3.*")
